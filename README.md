@@ -4,7 +4,7 @@ Roles that generate qualified pipeline for a sales team: demand campaigns, accou
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 28, 2026** · 17 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated October 28, 2026** · 16 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -17,7 +17,6 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Demand Generation Marketing Manager, SMB](https://www.titleless.fyi/companies/prokeep/jobs/demand-generation-marketing-manager-smb/) | [Prokeep](https://www.titleless.fyi/companies/prokeep/) | United States | Remote \(United States\) | — | Oct 9, 2026 |
 | [Growth Marketing Manager](https://www.titleless.fyi/companies/boom/jobs/growth-marketing-manager/) | [Boom](https://www.titleless.fyi/companies/boom/) | Austin, TX | On-site | $100,000–$125,000 USD per year | Oct 8, 2026 |
 | [Demand Generation Manager](https://www.titleless.fyi/companies/echomark/jobs/demand-generation-manager/) | [EchoMark](https://www.titleless.fyi/companies/echomark/) | Bellevue, WA | On-site | $100,000–$200,000 USD per year | Oct 8, 2026 |
-| [Demand Generation Lead](https://www.titleless.fyi/companies/maven-agi/jobs/demand-generation/) | [Maven AGI](https://www.titleless.fyi/companies/maven-agi/) | United States | Remote \(United States\) | $140,000–$193,000 USD per year | Oct 8, 2026 |
 | [Sr. Demand Generation Manager](https://www.titleless.fyi/companies/vcluster-labs/jobs/sr-demand-generation-manager/) | [vCluster Labs](https://www.titleless.fyi/companies/vcluster-labs/) | United States | Remote \(United States\) | $125,000–$145,000 USD per year | Oct 7, 2026 |
 | [Director of Demand Generation](https://www.titleless.fyi/companies/brightwheel/jobs/director-of-demand-generation/) | [brightwheel](https://www.titleless.fyi/companies/brightwheel/) | United States | Remote \(United States\) | $171,000–$244,000 USD per year | Oct 5, 2026 |
 | [AI Growth Marketer](https://www.titleless.fyi/companies/cinder/jobs/ai-growth-marketer/) | Cinder | New York, NY | On-site | $140,000–$170,000 USD per year | Sep 25, 2026 |
