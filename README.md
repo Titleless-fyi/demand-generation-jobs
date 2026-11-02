@@ -4,10 +4,11 @@ Roles that generate qualified pipeline for a sales team: demand campaigns, accou
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated October 30, 2026** · 14 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 2, 2026** · 15 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
+| [Senior Manager, Demand Generation](https://www.titleless.fyi/companies/commure/jobs/demand-generation-manager/) | [Commure](https://www.titleless.fyi/companies/commure/) | Mountain View, CA | On-site | $120,000–$140,000 USD per year | Oct 28, 2026 |
 | [Director of Growth Marketing](https://www.titleless.fyi/companies/tennr/jobs/director-of-growth-marketing/) | [Tennr](https://www.titleless.fyi/companies/tennr/) | New York, NY | Hybrid | $170,000–$210,000 USD per year | Oct 15, 2026 |
 | [Director of Demand Generation](https://www.titleless.fyi/companies/furtherai/jobs/director-of-demand-generation/) | [FurtherAI](https://www.titleless.fyi/companies/furtherai/) | New York, NY | On-site | $180,000–$235,000 USD per year | Oct 14, 2026 |
 | [Director Demand Generation](https://www.titleless.fyi/companies/crisis-prevention-institute/jobs/director-demand-generation/) | [Crisis Prevention Institute](https://www.titleless.fyi/companies/crisis-prevention-institute/) | United States | Remote \(US\) | — | Oct 12, 2026 |
@@ -23,7 +24,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Director of Demand Generation](https://www.titleless.fyi/companies/ivo/jobs/director-of-demand-generation/) | Ivo Inc. | San Francisco, CA | On-site | $200,000–$230,000 USD per year | Sep 21, 2026 |
 | [Director of Demand Generation](https://www.titleless.fyi/companies/nucleus-security/jobs/director-of-demand-generation/) | [Nucleus Security](https://www.titleless.fyi/companies/nucleus-security/) | United States | Remote \(US\) | $165,000–$200,000 USD per year | Sep 21, 2026 |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated October 30, 2026; eligibility checked October 30, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 2, 2026; eligibility checked November 2, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current demand generation roles: [Demand Generation jobs on Titleless.fyi](https://www.titleless.fyi/demand-generation-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
