@@ -4,7 +4,7 @@ Roles that generate qualified pipeline for a sales team: demand campaigns, accou
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description, how the role was classified and a direct link to apply on the employer's site.
 
-**Updated November 10, 2026** · 15 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 10, 2026** · 19 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 | Job title | Company | Location | Work arrangement | Salary | Posted |
 | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,11 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Head of Demand Generation, North America](https://www.titleless.fyi/companies/adyen/jobs/head-of-demand-generation-north-america/) | [Adyen](https://www.titleless.fyi/companies/adyen/) | San Francisco, CA / New York, NY | Hybrid | — | Nov 2, 2026 |
 | [Senior Manager, Demand Generation](https://www.titleless.fyi/companies/commure/jobs/demand-generation-manager/) | [Commure](https://www.titleless.fyi/companies/commure/) | Mountain View, CA | On-site | $120,000–$140,000 USD per year | Oct 28, 2026 |
 | [Head of Growth](https://www.titleless.fyi/companies/varick-agents/jobs/head-of-growth/) | [Varick Agents](https://www.titleless.fyi/companies/varick-agents/) | San Francisco, CA | On-site | $150,000–$200,000 USD per year | Oct 26, 2026 |
+| [Head of Growth Marketing](https://www.titleless.fyi/companies/assembled/jobs/head-of-growth-marketing/) | [Assembled](https://www.titleless.fyi/companies/assembled/) | San Francisco, CA | On-site | $200,000–$240,000 USD per year | Oct 25, 2026 |
+| [Director, Performance and Growth Marketing](https://www.titleless.fyi/companies/kiddom/jobs/director-performance-and-growth-marketing/) | [Kiddom](https://www.titleless.fyi/companies/kiddom/) | United States | Remote \(United States\) | $180,000–$250,000 USD per year | Oct 25, 2026 |
+| [Demand Generation Manager](https://www.titleless.fyi/companies/footprint/jobs/demand-generation-manager/) | [Footprint](https://www.titleless.fyi/companies/footprint/) | New York, NY | On-site | $135,000–$165,000 USD per year | Oct 16, 2026 |
 | [Director of Demand Generation](https://www.titleless.fyi/companies/furtherai/jobs/director-of-demand-generation/) | [FurtherAI](https://www.titleless.fyi/companies/furtherai/) | New York, NY | On-site | $180,000–$235,000 USD per year | Oct 14, 2026 |
+| [Demand Generation Manager](https://www.titleless.fyi/companies/mojo-ai/jobs/demand-generation-manager/) | [Mojo AI](https://www.titleless.fyi/companies/mojo-ai/) | Sandy, UT | On-site | — | Oct 14, 2026 |
 | [Director Demand Generation](https://www.titleless.fyi/companies/crisis-prevention-institute/jobs/director-demand-generation/) | [Crisis Prevention Institute](https://www.titleless.fyi/companies/crisis-prevention-institute/) | United States | Remote \(US\) | — | Oct 12, 2026 |
 | [Senior Demand Generation Manager](https://www.titleless.fyi/companies/fieldguide/jobs/senior-demand-generation-manager/) | Fieldguide | United States | Remote \(United States\) | $150,000–$175,000 USD per year | Oct 9, 2026 |
 | [Demand Gen Lead](https://www.titleless.fyi/companies/kojo/jobs/demand-gen-lead/) | [Kojo](https://www.titleless.fyi/companies/kojo/) | Canada | Remote \(United States, Canada\) | $75,000–$100,000 USD per year | Oct 9, 2026 |
