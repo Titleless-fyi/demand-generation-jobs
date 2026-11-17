@@ -4,7 +4,7 @@ Roles that generate qualified pipeline for a sales team: demand campaigns, accou
 
 Each job title below links to its page on [Titleless.fyi](https://www.titleless.fyi/), with the full description and how the role was classified. Apply goes straight to the employer's application.
 
-**Updated November 16, 2026** · 17 roles. Roles can close after this date; each job page shows whether the listing is still open.
+**Updated November 17, 2026** · 17 roles. Roles can close after this date; each job page shows whether the listing is still open.
 
 6 of 17 remote · 11 with employer-listed salary · median annual salary midpoint $175,000 USD (n=11)
 
@@ -28,7 +28,7 @@ Each job title below links to its page on [Titleless.fyi](https://www.titleless.
 | [Founding Growth Lead](https://www.titleless.fyi/companies/kastle/jobs/founding-growth-lead/) | Kastle | San Francisco, CA | On-site | $170,000–$200,000 USD per year | Sep 25, 2026 | [Apply](<https://jobs.ashbyhq.com/Kastle/2277f75c-be5c-47e3-8fd0-f71b74db3d68?utm_source=titleless_fyi&utm_medium=referral>) |
 | [Director of Demand Generation](https://www.titleless.fyi/companies/ivo/jobs/director-of-demand-generation/) | Ivo Inc. | San Francisco, CA | On-site | $200,000–$230,000 USD per year | Sep 21, 2026 | [Apply](<https://jobs.ashbyhq.com/ivo-inc/9635bc45-69a6-4829-9828-222715a6e475?utm_source=titleless_fyi&utm_medium=referral>) |
 
-Source: current eligible published job pages from Titleless.fyi's inventory dated November 16, 2026; eligibility checked November 16, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
+Source: current eligible published job pages from Titleless.fyi's inventory dated November 17, 2026; eligibility checked November 17, 2026 (UTC). Salary shown only from employer-supplied ATS fields; — means no employer-supplied salary is available.
 
 More current demand generation roles: [Demand Generation jobs on Titleless.fyi](https://www.titleless.fyi/demand-generation-jobs/). All growth marketing jobs: [Titleless.fyi](https://www.titleless.fyi/).
 
